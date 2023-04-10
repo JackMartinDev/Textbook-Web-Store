@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Textbook-Web-Store/static/css/main.0ccbcc93.css",
+    "main.js": "/Textbook-Web-Store/static/js/main.1232b4a5.js",
+    "static/media/books.jpg": "/Textbook-Web-Store/static/media/books.b417880f59d68de65b71.jpg",
+    "index.html": "/Textbook-Web-Store/index.html",
+    "main.0ccbcc93.css.map": "/Textbook-Web-Store/static/css/main.0ccbcc93.css.map",
+    "main.1232b4a5.js.map": "/Textbook-Web-Store/static/js/main.1232b4a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccbcc93.css",
+    "static/js/main.1232b4a5.js"
+  ]
+}
